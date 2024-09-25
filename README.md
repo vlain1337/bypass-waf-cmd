@@ -1,1 +1,1 @@
-// https://url.go.id/shell.php?_=system&__=ls
+shell.php?_=system&__=ls
